@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="https://square-forest-95ab.2637913980.workers.dev/assets/icon.png" width="96" alt="岛蛋鬼">
+
 # 岛蛋鬼 Isle Imp
 
 **你开口，它动手。**
@@ -6,7 +10,7 @@
 
 [**⬇ 下载 Windows 版（118 MB）**](https://github.com/o381/isle-imp-download/releases/latest/download/IsleImp-Setup-1.0.0.exe)
 
-v1.0.0 · Windows 10 / 11 64 位 · 免管理员安装
+v1.0.0 · Windows 10 / 11 64 位
 
 </div>
 
@@ -48,7 +52,7 @@ v1.0.0 · Windows 10 / 11 64 位 · 免管理员安装
 ## 安装
 
 1. 点上面的下载按钮，或到 [Releases](https://github.com/o381/isle-imp-download/releases/latest) 下载 `IsleImp-Setup-1.0.0.exe`。
-2. 双击运行 → 选安装位置 → 立即安装。不需要管理员权限，装好后开始菜单和桌面都有"岛蛋鬼"。
+2. 双击运行 → 选安装位置 → 立即安装。装好后开始菜单和桌面都有"岛蛋鬼"。
 3. 安装包暂时没有数字签名，第一次运行如果提示"Windows 已保护你的电脑"，点 **更多信息 → 仍要运行** 即可。
 
 **系统要求**：Windows 10（1803 及以上）/ Windows 11，64 位。
@@ -91,4 +95,4 @@ v1.0.0 · Windows 10 / 11 64 位 · 免管理员安装
 
 问题和建议：[2637913980@qq.com](mailto:2637913980@qq.com)，或在本仓库提 [Issue](https://github.com/o381/isle-imp-download/issues)。
 
-官网：<https://isle-imp.pages.dev>
+官网：<https://square-forest-95ab.2637913980.workers.dev>
